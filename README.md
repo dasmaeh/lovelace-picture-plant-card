@@ -15,10 +15,10 @@ resources:
 ```
 
 # Configuration
-- *type* (/required/): custom:picture-plant-card
-- *entity* (/required/): entity of the plant to be monitored
-- *image* (/required/): picture of the plant, store images in `<ha config dir>/www` and reference them here as `/local/my_plant_img.jpg`
-- *title* (/optional/): title of the card. If not specified the friendly name of the plant entity will be used.
+- **type** (_required_): custom:picture-plant-card
+- **entity** (_required_): entity of the plant to be monitored
+- **image** (_required_): picture of the plant, store images in `<ha config dir>/www` and reference them here as `/local/my_plant_img.jpg`
+- **title** (_optional_): title of the card. If not specified the friendly name of the plant entity will be used.
 
 ## Sample:
 ```yaml
@@ -28,4 +28,4 @@ resources:
   image: /local/plant_img/fern.jpg
 ```
 
-(screenshot of picture-plant-card)[sample.png]
+![screenshot of picture-plant-card](sample.png)
