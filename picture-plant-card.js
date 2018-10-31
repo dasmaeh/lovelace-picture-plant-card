@@ -140,7 +140,7 @@ class PicturePlantCard extends HTMLElement {
       }
       ha-icon {
         cursor: pointer;
-        padding: 8px;
+        padding: 4px;
         color: #A9A9A9;
       }
 
