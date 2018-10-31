@@ -1,0 +1,9 @@
+{
+    "picture-plant-card": {
+      "updated_at": "2018-10-31",
+      "version": "0.1",
+      "remote_location": "https://raw.githubusercontent.com/dasmaeh/lovelace-picture-plant-card/master/picture-plant-card.js",
+      "visit_repo": "https://github.com/dasmaeh/lovelace-picture-plant-card",
+      "changelog": "https://github.com/dasmaeh/lovelace-picture-plant-card/releases/latest"
+    }
+}
